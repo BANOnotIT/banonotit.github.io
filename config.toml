@@ -55,7 +55,7 @@ icons = false
 # can be used as the icon. The bi- prefix should not be added.
 links = [
   # {url = "/blog", name = "Blog", icon = "journal-bookmark-fill"},
-  {url = "/use", name = "/use", icon = "hammer"},
+  # {url = "/use", name = "/use", icon = "hammer"},
   {url = "/now", name = "👋 /now" },
 
   # {url = "https://mastodon.ml/@bano", name = "Mastodon"},
