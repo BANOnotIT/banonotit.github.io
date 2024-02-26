@@ -7,20 +7,8 @@ I'm a full-stack developer. Mainly write in TypeScript and passionate about the 
 
 You can call me Ivan or _Ваня_ if you can read the latter 😆
 
+To **contact** me you can mention me on <a href="https://mastodon.ml/@bano" rel="me">Mastodon</a>
+or send me an <a href="mailto:me@bano.dev" rel="me">Email</a>.
+You also can find my code on <a href="https://codeberg.org/bano" rel="me">Codeberg</a> or <a href="https://github.com/banonotit" rel="me">GitHub</a>.
 
-## Contact
-You can find me here:
-- <a href="https://mastodon.ml/@bano" rel="me">Mastodon</a>
-- <a href="mailto:REMOVE-TO-NOT-GET-INTO-SPAM-me@bano.dev" rel="me">Email</a>
-- <a href="https://codeberg.org/bano" rel="me">Codeberg</a>
-- <a href="https://github.com/banonotit" rel="me">GitHub</a>
-
-## Test
-
-```tsx
-const a = "tester"
-class Bano extends Developer implements Human {
-    asdf = <human-view />
-}
-```
-
+If you want to know what I'm up to, you can check [/now](/now). Or if you feel like we're out of the same cloth, check out [/links](/links) to appreciate things with me. [/use](/use) is also frequently updated to match devices and programs that help me everyday.
