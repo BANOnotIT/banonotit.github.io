@@ -7,14 +7,14 @@ toc = true
 # Things I use
 
 ## Operation system 
-- Ubuntu 22.04
+- Fedora 39
   - Theme: Flat-Remix-GTK-Blue-Dark
-  - Icons: Paper
+  <!-- - Icons: Paper -->
   - Gnome extensions:
     - [Blur my Shell](https://github.com/aunetx/blur-my-shell)
     - [Dash to Dock](https://micheleg.github.io/dash-to-dock/) because ubuntu broke default one
-    - [Draw On Your Screen 2](https://github.com/zhrexl/DrawOnYourScreen2). I don't know what happened to the first version, honestly.
-- Windows 10 just to play games from time to time.
+    <!-- - [Draw On Your Screen 2](https://github.com/zhrexl/DrawOnYourScreen2). I don't know what happened to the first version, honestly. -->
+- Windows 11 just to play games from time to time.
 
 ## Programs
 I'm a Web developer first of all, so here are programs that I use daily for work:
@@ -23,11 +23,11 @@ I'm a Web developer first of all, so here are programs that I use daily for work
 
 - **WebStorm** -- that's the core of my workflows and I spend like 70% of time in it. No fancy plugins other then several language syntaxes as it's batteries included.
 - **VisualStudio Code** -- I use it for things other then Web development. Like Ansible roles, YAML files and .env files
-  - Extensions:
-    - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) that allows me execute .http files
-    - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) because default integration sucks
-    - ... and many language specific things
-  - Theme: [Ayu Mirage](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+  <!-- - Extensions: -->
+  - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) that allows me execute .http files
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) because default integration sucks
+  - ... and many language specific things
+  <!-- - Theme: [Ayu Mirage](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) -->
 - **Vim** -- is used if I don't really want to leave my terminal
   - .vimrc you can [find here](https://github.com/BANOnotIT/dotfiles/blob/master/.vimrc)
 
@@ -67,12 +67,21 @@ I'm a Web developer first of all, so here are programs that I use daily for work
 ## Hardware 
 
 ### Laptop 💻
+- Model: 83AR XiaoXinPro 16 APH8 (IdeaPad Pro 5 16APH8)
+- RAM: 32GiB
+- CPU: AMD Ryzen 7 7840HS (16) @ 5.137GHz
+- GPU: AMD ATI 64:00.0 Phoenix1
+- Mouse: Razer Basilisk V2
+- Bought: 2024
+
+<!-- 
 - Model: Acer Aspire V7
 - RAM: 16GiB
 - CPU: Intel i7-4702MQ (8) @ 3.2GHz
 - GPU: NVIDIA GeForce GTX 850M
 - Mouse: Razer Basilisk V2
 - Bought: 2014
+-->
 
 ### Mobile Phone 📱
 - Model: Redmi Note 8 Pro
