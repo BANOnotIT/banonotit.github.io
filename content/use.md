@@ -1,7 +1,5 @@
 +++
 title="Things I use"
-[extra]
-toc = true
 +++
 
 # Things I use
@@ -39,30 +37,30 @@ I'm a Web developer first of all, so here are programs that I use daily for work
     - [Dark Reader](https://darkreader.org/) was primary thing but nowadays many sites implement `@media (prefers-color-scheme: dark)` and it's maintainer doesn't think it's good.
     - [AdGuard](https://adguard.com/) to block ads. I did no research on alternatives. This one just works
     - [SponsorBlock](https://sponsor.ajay.app/) skips sponsored segments in YouTube videos
-    - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers#readme) is just a thing that tries to give different cookies in different tabs. Less useful then chrome's accounts though
+    - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers) is just a thing that tries to give different cookies in different tabs. Less useful then chrome's accounts though
     - [Tabliss](https://tabliss.io/) does pretty home page 💅
-- [**KeePassXC**](https://keepassxc.org/) holds all my passwords.
+- [KeePassXC](https://keepassxc.org/) holds all my passwords.
 - **Inkscape** to do vector graphics
 - **qBitTorrent** to download ~~films~~ manuals and Ubuntu ISOs
 
 ### Console 😎
 
-- [**Kitty**](https://sw.kovidgoyal.net/kitty/) is a great terminal
+- [Kitty](https://sw.kovidgoyal.net/kitty/) is a great terminal
 - **zsh** is a great shell containing all features I may think of because no fish needed! I cook it lazily with oh-my-zsh:
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) to show a command I might want to enter just by first several words. Just like in fish.
   - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) gives ability to add variants from history using simple <kbd>↑ / ↓</kbd>. Just like in fish.
   - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) to highlight things. Just like in fish.
-- [**starship**](https://starship.rs/) to show prompt. Much faster then zsh themes. My config you can [find here](https://github.com/BANOnotIT/dotfiles/blob/master/.config/starship.toml).
+- [starship](https://starship.rs/) to show prompt. Much faster then zsh themes. My config you can [find here](https://github.com/BANOnotIT/dotfiles/blob/master/.config/starship.toml).
 
 ### Utils 🧰
 
-- [**Volta**](https://volta.sh/) to manage Node.js versions
+- [Volta](https://volta.sh/) to manage Node.js versions
 - **NPM** for package management
 - **Yarn** for scripts running. Yeah, just an alias to do `y dev` instead of `npm run dev`
-- [**lnav**](https://lnav.org/) helps me wade through logs with ease.
-- [**zoxide**](https://github.com/ajeetdsouza/zoxide) is a `cd` command but with fuzzy search so that I can just do `z e p f` which will cd to `~/Projects/Example/packages/frontend`. A great tool that works best with autosuggestions.
-- [**ripgrep**](https://github.com/BurntSushi/ripgrep) rips original `grep` in pieces.
-- [**fd**](https://github.com/sharkdp/fd) finds files fast. Faster then you might think of finding it.
+- [lnav](https://lnav.org/) helps me wade through logs with ease.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) is a `cd` command but with fuzzy search so that I can just do `z e p f` which will cd to `~/Projects/Example/packages/frontend`. A great tool that works best with autosuggestions.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) rips original `grep` in pieces.
+- [fd](https://github.com/sharkdp/fd) finds files fast. Faster then you might think of finding it.
 
 ## Hardware 
 
