@@ -1,0 +1,15 @@
+@mixin theme-colors {
+    :root {
+        @content("light");
+    }
+
+    [data-theme="dark"] {
+        @content("dark");
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root:not([data-theme="light"]) {
+            @content("dark");
+        }
+    }
+}
