@@ -1,7 +1,7 @@
 +++
 title = "Тропинки против оградок"
 date = 2024-07-31
-template = "blog.html"
+template = "article.html"
 +++
 
 ![Останки от перелаза через забор где-то во Французском лесу](./Stephen%20Bowler.jpg)

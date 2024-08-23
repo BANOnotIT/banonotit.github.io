@@ -2,8 +2,9 @@
 title = "Links to things I like"
 date = 2024-02-26
 updated = 2024-02-26
-template = "blog.html"
 +++
+
+# Links to things I like
 
 ## YouTube
 So here are hidden gems:

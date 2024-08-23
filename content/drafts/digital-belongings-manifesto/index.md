@@ -1,6 +1,6 @@
 +++
 title = "Digital Belongings Manifesto"
-template="blog.html"
+template="article.html"
 [extra]
 disclaimer ="""
 This is a draft of the document.

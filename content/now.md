@@ -1,6 +1,5 @@
 +++
 title="Right now I am..."
-
 +++
 
 # Right now I am...
