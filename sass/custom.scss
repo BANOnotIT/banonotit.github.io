@@ -1,3 +1,47 @@
+// No edge highlights
+:root {
+    --edge-highlight: 0 0 0 transparent;
+	--nav-bg: var(--bg-color),var(--primary-color);
+
+	@media (prefers-color-scheme: dark) { 
+		--nav-bg: var(--bg-color),var(--primary-color);
+	}
+}
+
+
+// Use top navbar
+// @see https://duckquill.daudix.one/tricks/#navbar
+
+#site-nav {
+    top: 0;
+    margin-top: 0;
+    box-shadow: 0 0.75rem 1.5rem -1rem rgba(0, 0, 0, 0.5);
+    border-radius: 0 0 calc(var(--rounded-corner) + 0.5rem) calc(var(--rounded-corner) + 0.5rem);
+	// --blur: ;
+	background: var(--nav-bg);
+	border: 1px solid var(--fg-muted-2);
+	border-top: none;
+
+    nav ul li {
+        a,
+        &#search button,
+        &#language-switcher details summary,
+        &#theme-switcher details summary {
+            border-radius: var(--rounded-corner);
+        }
+
+    }
+
+    #search-container {
+        #search-bar {
+            border-radius: var(--rounded-corner);
+        }
+    }
+}
+
+
+// bring back headings
+// @see https://duckquill.daudix.one/tricks/#headings
 h1,
 h2,
 h3,
@@ -32,3 +76,15 @@ h5 {
 h6 {
 	font-size: 0.75rem;
 }
+
+// bring back boring <del>
+// @see https://duckquill.daudix.one/tricks/#strikethrough
+
+del {
+    box-shadow: none;
+    border-radius: 0;
+    background-color: transparent;
+    padding: 0;
+    color: inherit;
+}
+
