@@ -1,8 +1,9 @@
 +++
 title = "Digital Belongings Manifesto"
-template="article.html"
+date = 2023-12-26
+aliases = ["/drafts/digital-belongings-manifesto"]
 [extra]
-disclaimer ="""
+disclaimer = """
 This is a draft of the document.
 """
 +++

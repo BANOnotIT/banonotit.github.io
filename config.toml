@@ -33,9 +33,9 @@ show_read_time = true
 
 [extra.nav]
 links = [
-  # { url = "@/blog/_index.md", name = "Blog" },
+  { url = "@/blog/_index.md", name = "Blog" },
   # { url = "@/use.md", name = "/use" },
-  { url = "@/now.md", name = "👋 /now" },
+  { url = "@/now.md", name = "Status" },
 
   # { url = "https://mastodon.ml/@bano", name = "Mastodon" },
   # { url = "https://codeberg.org/bano", name = "Codeberg" },
