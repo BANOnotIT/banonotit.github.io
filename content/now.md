@@ -2,8 +2,6 @@
 title="Right now I am..."
 +++
 
-# Right now I am...
-
 I'm trying to succeed with one crypto project. It's not that interesting internally ~~it is~~ but I can't really tell anything about it. *How many times I told people about our projects?..*
 
 Looking for a place outside of Motherland. I don't really see any immediate ways to achieve stability and confidence in the future that is required to do some of projects I want to build.

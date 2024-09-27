@@ -1,10 +1,7 @@
 +++
 title = "Links to things I like"
-date = 2024-02-26
 updated = 2024-02-26
 +++
-
-# Links to things I like
 
 ## YouTube
 So here are hidden gems:

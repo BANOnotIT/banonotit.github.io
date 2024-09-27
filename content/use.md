@@ -2,7 +2,6 @@
 title="Things I use"
 +++
 
-# Things I use
 
 ## Operation system 
 - Fedora 39
