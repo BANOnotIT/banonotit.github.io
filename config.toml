@@ -22,13 +22,13 @@ highlight_themes_css = [
 smart_punctuation = true
 
 [extra]
-primary_color = "#ff7800"
+accent_color = "#ff7800"
 primary_color_alpha = "rgba(255, 120, 0, 0.2)"
-primary_color_dark = "#ffa348"
+accent_color_dark = "#ffa348"
 primary_color_dark_alpha = "rgba(255, 163, 72, 0.2)"
 issues_url = "https://github.com/banonotit/banonotit.github.io/issues"
 source_url = "https://github.com/banonotit/banonotit.github.io"
-stylesheets = ["custom.css"]
+styles = ["custom.css"]
 show_read_time = true
 
 [extra.nav]
