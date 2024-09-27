@@ -5,8 +5,9 @@ theme = "duckquill"
 
 compile_sass = true
 minify_html = true
-# generate_feed = true
+generate_feeds = true
 # feed_filenames = ["atom.xml"]
+author = "Bano"
 
 taxonomies = [
   # {name = "tags", feed = true},
@@ -42,6 +43,7 @@ links = [
   # { url = "https://github.com/banonotit", name = "GitHub" },
   # { url = "mailto:REMOVE-TO-NOT-GET-INTO-SPAM-me@bano.dev", name = "Email" },
 ]
+show_feed = true
 
 [extra.footer]
 show_copyright = true
