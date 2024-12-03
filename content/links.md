@@ -8,6 +8,7 @@ So here are hidden gems:
 
 - [Posy](https://www.youtube.com/@PosyMusic) a dutch musician with clunky humor and passion in everyday beauty and design
 - [Дмитрий Бурдуков](https://www.youtube.com/@Flynn101) (ru) if you have ever wondered about music in games and why it's important, you should check out
+- [Uldan Dub](https://www.youtube.com/@UldanDub) (ru) an enlightened otaku fallen deep into artistic endeavor
 - [Juxtopposed](https://www.youtube.com/@juxtopposed) a graphical designer that does pretty things with many-many-many cat memes 🐱
 
 If you are interested in others please be my guest and open the spoiler.
@@ -15,7 +16,7 @@ If you are interested in others please be my guest and open the spoiler.
 <details>
 <summary>Fall into gaming, technology and design</summary>
 
-- [...and Action!](https://www.youtube.com/@andActionOne) (ru/ua) was doing many video esses in russian until the war started and he switched to ukrainian
+- [...and Action!](https://www.youtube.com/@andActionOne) (ru/uk) was doing many video esses in russian until the war started and he switched to ukrainian
 - [aartificial](https://www.youtube.com/@aarthificial) makes videos on how he creates his own games
 - [Ahoy](https://www.youtube.com/@XboxAhoy) makes marvelous videos about games and history of guns in games you never thought of
 - [AngeTheGreat](https://www.youtube.com/@AngeTheGreat) creates simulators of engines and other mechanical things that sound and work as real ones
