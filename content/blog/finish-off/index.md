@@ -5,8 +5,6 @@ description = """
 Что делать, когда самый слабый боец занюхивает чернозем?
 """
 tags = ["ru"]
-[extra]
-banner = "./banner.jpg"
 +++
 
 <blockquote>
